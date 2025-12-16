@@ -14,6 +14,7 @@ class Program
 
     static void Move()
     {
-        Console.WriteLine("이동 히히Move!");
+        Console.WriteLine("Move! ㅎㅎ");
+        Console.WriteLine("Move! 뭔....");
     }
 }
