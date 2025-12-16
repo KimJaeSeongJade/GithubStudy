@@ -9,11 +9,11 @@ class Program
 
     static void Attack()
     {
-        Console.WriteLine("Attack!");
+        Console.WriteLine("어택 히히 Attack!");
     }
 
     static void Move()
     {
-        Console.WriteLine("Move!");
+        Console.WriteLine("이동 히히Move!");
     }
 }
