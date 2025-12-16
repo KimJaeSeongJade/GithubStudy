@@ -9,7 +9,7 @@ class Program
 
     static void Attack()
     {
-        Console.WriteLine("Attack! ㅇㅅㅇ");
+        Console.WriteLine("어택 히히 Attack!");
     }
 
     static void Move()
